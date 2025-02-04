@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔹 Building Scalable & Intelligent Systems | 🔹 Passionate About Software Development, System Design & Cloud Technologies
+🔹 Passionate About Software Development, System Design & Cloud Technologies
 🔹 Tech Stack: Java, Python, JavaScript, React, Spring Boot, Flask, Django, REST APIs, SQL, AWS, Docker, Machine Learning
 
 💡 About Me
