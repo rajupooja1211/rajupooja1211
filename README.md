@@ -15,7 +15,7 @@
 
 🎓 Education
 - 🎓 Master of Science in Computer Science | Santa Clara University (Class of 2025)
-- 🎓 Bachelor of Engineering in Computer Science & Engineering | Visvesvaraya Technology University
+- 🎓 Bachelor of Engineering in Computer Science & Engineering | Visvesvaraya Technology University (Class of 2023)
 
 🚀 Current Project
 - 🛠 Indian Food Image Classification (ML Project) – Building a food recognition system using CNNs & transfer learning (MobileNet) to classify 4,000+ images into 80 categories. The project focuses on data preprocessing, model tuning, and deployment for real-world applications.
