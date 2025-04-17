@@ -8,6 +8,7 @@
 - I am a Software Engineer with experience in full-stack development, backend engineering, and Data Science. I enjoy solving complex engineering challenges, optimizing system performance, and applying AI-driven solutions to real-world applications.
 
 📌 Experience
+
 💼 Full Stack Engineer Intern  | Talentix Solutions Inc
 - Designed and implemented a full-stack resume processing platform using React (frontend) and Python (backend).
 - Built a resume parser with PyPDF2/pypdf, achieving 85% accuracy in structured data extraction.
