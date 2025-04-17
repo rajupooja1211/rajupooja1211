@@ -9,12 +9,12 @@
 
 📌 Experience
 💼 Full Stack Engineer Intern  | Talentix Solutions Inc
-• Designed and implemented a full-stack resume processing platform using React (frontend) and Python (backend).
-• Built a resume parser with PyPDF2/pypdf, achieving 85% accuracy in structured data extraction.
-• Used Apache NiFi for data preprocessing before OpenAI API integration to enhance candidate-job matching to 70%
+- Designed and implemented a full-stack resume processing platform using React (frontend) and Python (backend).
+- Built a resume parser with PyPDF2/pypdf, achieving 85% accuracy in structured data extraction.
+- Used Apache NiFi for data preprocessing before OpenAI API integration to enhance candidate-job matching to 70%
   improvement in alignment.
-• Integrated PostgreSQL (AWS RDS) for scalable data storage and leveraged AWS EC2 for backend deployment.
-• Utilized boto3 and psycopg2 for secure cloud and database operations.
+- Integrated PostgreSQL (AWS RDS) for scalable data storage and leveraged AWS EC2 for backend deployment.
+- Utilized boto3 and psycopg2 for secure cloud and database operations.
 
 🎓 Education
 - 🎓 Master of Science in Computer Science | Santa Clara University (June 2025)
