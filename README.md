@@ -1,21 +1,24 @@
 ## Hi there 👋
 
-🔹 Passionate About Software Development, System Design & Cloud Technologies
+🔹 Passionate About Software Development, Data Analytics & Cloud Technologies
 
-🔹 Tech Stack: Java, Python, JavaScript, React, Spring Boot, Flask, Django, REST APIs, SQL, AWS, Docker, Machine Learning
+🔹 Tech Stack: Java, Python, JavaScript, React, Spring Boot, Flask, Django, REST APIs, SQL, AWS, Docker, Machine Learning, Tableau 
 
 💡 About Me
 - I am a Software Engineer with experience in full-stack development, backend engineering, and machine learning. I enjoy solving complex engineering challenges, optimizing system performance, and applying AI-driven solutions to real-world applications.
 
 📌 Experience
-💼 Software Engineer Intern | Sacramento, CA
-- Optimized LifeStages app backend, improving processing efficiency by 25%.
-- Developed Flask APIs, boosting feature usage by 25% and enhancing system stability.
-- Led Agile-driven integrations, achieving 98% uptime and improving team collaboration.
+💼 Full Stack Engineer Intern  | Talentix Solutions Inc
+• Designed and implemented a full-stack resume processing platform using React (frontend) and Python (backend).
+• Built a resume parser with PyPDF2/pypdf, achieving 85% accuracy in structured data extraction.
+• Used Apache NiFi for data preprocessing before OpenAI API integration to enhance candidate-job matching to 70%
+  improvement in alignment.
+• Integrated PostgreSQL (AWS RDS) for scalable data storage and leveraged AWS EC2 for backend deployment.
+• Utilized boto3 and psycopg2 for secure cloud and database operations.
 
 🎓 Education
-- 🎓 Master of Science in Computer Science | Santa Clara University (Class of 2025)
-- 🎓 Bachelor of Engineering in Computer Science & Engineering | Visvesvaraya Technology University (Class of 2023)
+- 🎓 Master of Science in Computer Science | Santa Clara University (June 2025)
+- 🎓 Bachelor of Engineering in Computer Science & Engineering | Visvesvaraya Technology University (July 2023)
 
 🚀 Current Project
-- 🛠 Indian Food Image Classification (ML Project) – Building a food recognition system using CNNs & transfer learning (MobileNet) to classify 4,000+ images into 80 categories. The project focuses on data preprocessing, model tuning, and deployment for real-world applications.
+- 🛠 Tidy Town – Flutter App for Preschoolers – Developing a bilingual (English and Spanish) learning and gaming app using Flutter to teach preschool kids about waste sorting. The app features interactive animations, progress tracking, and playful UI to promote real-world sustainability habits.
