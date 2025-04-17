@@ -5,7 +5,7 @@
 🔹 Tech Stack: Java, Python, JavaScript, React, Spring Boot, Flask, Django, REST APIs, SQL, AWS, Docker, Machine Learning, Tableau 
 
 💡 About Me
-- I am a Software Engineer with experience in full-stack development, backend engineering, and machine learning. I enjoy solving complex engineering challenges, optimizing system performance, and applying AI-driven solutions to real-world applications.
+- I am a Software Engineer with experience in full-stack development, backend engineering, and Data Science. I enjoy solving complex engineering challenges, optimizing system performance, and applying AI-driven solutions to real-world applications.
 
 📌 Experience
 💼 Full Stack Engineer Intern  | Talentix Solutions Inc
